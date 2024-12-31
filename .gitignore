@@ -1,0 +1,22 @@
+# Compiled JavaScript files
+dist/
+build/
+out/
+
+# Node modules
+node_modules/
+
+# TypeScript cache files
+*.tsbuildinfo
+
+# IDE and editor configurations
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
